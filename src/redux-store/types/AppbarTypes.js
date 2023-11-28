@@ -1,0 +1,3 @@
+export const APPBAR_TITLE_TYPE = {
+  SET_APPBAR_TITLE: "SET_APPBAR_TITLE",
+};
